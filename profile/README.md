@@ -9,4 +9,6 @@ Headquater: Berlin, Germany
 
 ### Quick links
 
+* [Good tips](https://github.com/litentry/project-gmbh-all-hands-board/issues?q=is%3Aissue+label%3ATips+)
+
 * [Community Calls](https://github.com/litentry/project-gmbh-all-hands-board/issues?q=is%3Aissue+label%3A%22Community+Call%22+)
